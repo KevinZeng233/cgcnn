@@ -93,3 +93,7 @@ Local
 
 # .DS_Store
 .DS_Store
+/data/material-data
+checkpoint.pth.tar
+model_best.pth.tar
+test_results.csv
